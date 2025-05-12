@@ -1,6 +1,6 @@
 # ISLP REFRESHER
 
-This is refresher of Fundamentaols of Machine Learning using ISLP
+This is refresher of Fundamentals of Machine Learning using ISLP
 
 
 
